@@ -10,7 +10,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
   - [my-playbook.yml](./Ansible/my-playbook.yml) - Used to install DVWA Servers.
   - [install-elk.yml](./Ansible/install-elk.yml) - Used to install Elk Server.
     - [filebeat-playbook.yml](./Ansible/filebeat-playbook.yml) - Used to install and configure Filebeat on ELK server and DVWA Server.
-  _TODO: Enter the playbook file._
+    - [metricbeat-playbook.yml](./Ansible/metricbeat-playbook.yml) - Used to install and configure Metricbeat on ELK server and DVWA Server.
 
 This document contains the following details:
 - Description of the Topologu
