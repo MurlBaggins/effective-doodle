@@ -17,4 +17,3 @@ lsof > ~/backups/openlist/open_list.txt
 
 #Free disk space to a free_disk.txt file
 df -h > ~/backups/freedisk/free_disk.txt
-
